@@ -45,17 +45,6 @@
         </dependency>
 
     </dependencies>
-    <distributionManagement>
-        <repository>
-            <id>YeepayReleases</id>
-            <name>yp3g-subsystem-release</name>
-            <url>http://10.151.30.176:8000/artifactory/yp3g-subsystem-release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>YeepaySnapshots</id>
-            <name>yp3g-subsystem-snapshot</name>
-            <url>http://10.151.30.176:8000/artifactory/yp3g-subsystem-snapshot</url>
-        </snapshotRepository>
-    </distributionManagement>
+    
 
 </project>
